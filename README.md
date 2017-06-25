@@ -20,7 +20,7 @@
 ## Porgramming
 
 - [PHP](#php)
-
+- [JAVA](#java)
 
 ## Security
 - [nmap](#nmap)
@@ -38,6 +38,19 @@ if ($date == "2017/06/25"){
 	echo"Work Hard🤓 there is no Eid😁";
 }
 //Yaser @alosefer
+?>
+```
+
+## java
+```
+<?java
+Public class Eid {
+Public static void main (String[]args){
+while(true){
+System.out.println("Happy Eid");
+}
+}
+} // @Najla1998m
 ?>
 ```
 
